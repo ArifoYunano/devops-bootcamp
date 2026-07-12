@@ -4,8 +4,7 @@ hello-world:latest      96498ffd522e       25.9kB         9.49kB
 infratify/card:latest   2414f6668e83         81MB         23.1MB        
 infratify/web:v1        86c13e3cd934       92.5MB           26MB        
 multi-stage:v1          1aead75a08d4        104MB         31.2MB   U    
-nginx:alpine            54f2a904c251       93.3MB         26.9MB   U    
-nginx:latest            ec4ed8b5299e        241MB           66MB        
+nginx:alpine            54f2a904c251       93.3MB         26.9MB   U     
 single-stage:v1         4a1915bd5000       2.02GB          518MB   U    
 web:latest              86c13e3cd934       92.5MB           26MB        
 web:v1                  86c13e3cd934       92.5MB           26MB        
