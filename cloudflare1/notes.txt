@@ -3,8 +3,8 @@ A) 2 Nameserver:
 - gene.ns.cloudflare.com
 
 B) URL pages.dev portfolio awam dari GitHub + custom domain
-https://github.com/ArifoYunano/private-cv
-https://cv-arifyunan.pages.dev/
+- https://github.com/ArifoYunano/private-cv
+- https://cv-arifyunan.pages.dev/
 
 C) URL private-site custom subdomain
 https://cv.arifyunan.asia/
