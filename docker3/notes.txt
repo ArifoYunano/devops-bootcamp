@@ -1,0 +1,12 @@
+NETWORK ID     NAME            DRIVER    SCOPE
+ed9f44b7262d   arena           bridge    local
+90cf71aeb320   arena_default   bridge    local
+265bd6d1837b   bridge          bridge    local
+bb35f2f4445f   host            host      local
+8152165e949b   none            null      local
+
+DRIVER    VOLUME NAME
+local     arena_me
+local     me
+
+296766961942.dkr.ecr.ap-southeast-1.amazonaws.com/devops-bootcamp/arifyunan
