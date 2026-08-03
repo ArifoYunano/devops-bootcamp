@@ -6,6 +6,14 @@ terraform {
       version = "~> 6.0"
     }
   }
+
+  backend "s3" {
+    bucket       = "bootcamp-2026-arif-yunan"
+    key          = "terraform2/terraform.tfstate"
+    region       = "ap-southeast-1"
+    use_lockfile = true
+  }
+
 }
 
 provider "aws" {
