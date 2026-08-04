@@ -33,7 +33,7 @@ resource "aws_instance" "my_server_2" {
   iam_instance_profile   = data.aws_iam_instance_profile.my_ssm_profile.name
 
   tags = {
-    Name = "tf-server-1"
+    Name = "tf-server-2"
   }
 }
 
